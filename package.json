@@ -38,5 +38,9 @@
   },
   "devDependencies": {
     "verb": "~0.2.0"
+  },
+  "dependencies": {
+    "fs-utils": "~0.4.0",
+    "gray-matter": "~0.3.4"
   }
 }
